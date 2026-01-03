@@ -40,7 +40,7 @@ Repository Structure
 - /docs – Executive summary and presentation materials
 - /appendix – Full statistical output for reference
 
-Author
+Author:
 Hamza Rabiu  
 MS Management Information Systems (Data & Analytics)  
 Northern Illinois University
